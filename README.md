@@ -45,7 +45,7 @@
   
   
 ---
-- I have a youtube channel with my friend. It's Hello World!
+- I have a youtube channel with my friend. It's Hello World!  <a href="https://www.youtube.com/channel/UCPJJbWeR2r1Rs_FWQhsPaFw"><img src="./images/subscribe.png" width = "300" height = "100" align = "center"> </a>
 ---
 ## 𝗪𝗵𝗮𝘁 we have in our Youtube channel | Hello World 🌎
 
@@ -54,47 +54,47 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+       <a href='https://www.youtube.com/watch?v=mZontGxNZ7Q&list=PLRzodrm7Zy5Gs-Ch0qjigyeaiCmw9BaJa'> <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg"> </a>
       </td>
       <td width="25%" align="center">
         <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+       <a href='https://www.youtube.com/watch?v=8JiPfTiVerA&list=PLRzodrm7Zy5HX4K5zQsg3Qtxnlz2U3LZC'> <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg"> </a>
       </td>
       <td width="25%" align="center">
         <span>Kotlin</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+       <a href='https://www.youtube.com/watch?v=8JiPfTiVerA&list=PLRzodrm7Zy5HX4K5zQsg3Qtxnlz2U3LZC'> <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg"> </a>
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+       <a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'>  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>Arduino</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg">
+        <a href='https://www.youtube.com/watch?v=K-qM5PVUVfk'> <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+       <a href='https://www.youtube.com/watch?v=RDMkzNzZOc0&list=PLRzodrm7Zy5GAqpxYM1F-gGS9sSVIjZW_'> <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+       <a href='https://www.youtube.com/watch?v=LMBjPFWZxCU'> <img height="64px" src="https://cdn.svgporn.com/logos/git.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>GNU/Linux</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux.svg">
+       <a href='https://www.youtube.com/watch?v=vDJD82fj0Us&list=PLRzodrm7Zy5Ep7crPccj8kAlj3XHj7Kub'> <img height="64px" src="https://cdn.svgporn.com/logos/linux.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+       <a href='https://www.youtube.com/watch?v=aMgIxdE08qg&list=PLRzodrm7Zy5Feb24PDLXekXWDZg8gV9fm'> <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>Xamarin</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/xamarin.svg">
+       <a href='https://www.youtube.com/watch?v=tRY4u01tNUw'> <img height="64px" src="https://cdn.svgporn.com/logos/xamarin.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>OpenCV</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
+       <a href='https://www.youtube.com/watch?v=IVys9sJDMao'> <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg"> </a>
       </td>
     </tr>
   </tbody>
