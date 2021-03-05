@@ -1,6 +1,9 @@
-### Hi there, I'm Kadriye! 👋
+### Hi there, I'm Kadriye! 👋   <img src="./images/kadriyemacit.png" width = "300" height = "300" align = "center"> 
 
-### I'm a computer engineer and i development mobile applications.
+### I'm a computer engineer and i development mobile applications.   
+
+
+
 
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
@@ -12,7 +15,7 @@
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books, travel and pilates.
+- 🌸 Fun Facts: Books, travel and pilates.  <img src="./images/yoga.gif" width = "400" height = "300" align = "center">
 
 ---
 
@@ -23,7 +26,7 @@
 
 <h4 align="center">Top langs 🔮</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadriyeMacit&langs_count=10&theme=tokyonight&layout=compact" alt="KadriyeMacit :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadriyeMacit&langs_count=10&layout=compact" alt="KadriyeMacit :: Top Langs" /></p>
 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
@@ -42,7 +45,7 @@
   
   
 ---
-- I have youtube channel with my friends (@fy1717). It's 
+- I have a youtube channel with my friend. It's Hello World!
 ---
 ## 𝗪𝗵𝗮𝘁 we have in our Youtube channel | Hello World 🌎
 
