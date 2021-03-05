@@ -4,14 +4,15 @@
 
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
-- 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift 
+- 🌱 I’m currently learning Flutter, FinTech, Machine Learning, Swift. 
+- 💃🏻 I did 2 times erasmus. 🇵🇱🇵🇹 I like meet to people from different cultures.
 
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/kadriyemacit/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kadriyemacit-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.youtube.com/c/HelloWorldhere/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@HelloWorldhere-red?style=flat&logo=youtube"></a>
   
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books and travel.
+- 🌸 Fun Facts: Books, travel and pilates.
 
 ---
 
@@ -20,7 +21,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{KadriyeMacit}/count.svg" alt="KadriyeMacit :: Visitor's Count" /></p>
 
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs 🔮</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadriyeMacit&langs_count=10&theme=tokyonight&layout=compact" alt="KadriyeMacit :: Top Langs" /></p>
 
@@ -39,8 +40,11 @@
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
   
+  
 ---
-## 𝗪𝗵𝗮𝘁 we have in Youtube 
+- I have youtube channel with my friends (@fy1717). It's 
+---
+## 𝗪𝗵𝗮𝘁 we have in our Youtube channel | Hello World 🌎
 
 <table>
   <tbody>
