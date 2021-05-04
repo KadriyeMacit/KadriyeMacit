@@ -1,6 +1,6 @@
 ### Hi there, I'm Kadriye! 👋   <img src="./images/kadriyemacit.png" width = "300" height = "300" align = "center"> 
 
-### I'm a computer engineer and i development mobile applications.   
+### I'm a software engineer and i development mobile applications.   
 
 
 
