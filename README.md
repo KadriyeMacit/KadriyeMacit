@@ -65,6 +65,10 @@
        <a href='https://www.youtube.com/watch?v=8JiPfTiVerA&list=PLRzodrm7Zy5HX4K5zQsg3Qtxnlz2U3LZC'> <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg"> </a>
       </td>
       <td width="25%" align="center">
+        <span>iOS(Swift)</span><br><br><br>
+       <a href='https://www.youtube.com/watch?v=rFb61Vt9bjY&list=PLRzodrm7Zy5GXWA4F_0XKNH_Llb98_afD'> <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg"> </a>
+      </td>
+      <td width="25%" align="center">
         <span>Python</span><br><br><br>
        <a href='https://www.youtube.com/watch?v=NJqJMkzO6V0&list=PLRzodrm7Zy5GyUsgqh_6J0ExeRA6UJpeJ'>  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> </a>
       </td>
@@ -82,7 +86,7 @@
       </td>
        <td width="25%" align="center">
         <span>GNU/Linux</span><br><br><br>
-       <a href='https://www.youtube.com/watch?v=vDJD82fj0Us&list=PLRzodrm7Zy5Ep7crPccj8kAlj3XHj7Kub'> <img height="64px" src="https://cdn.svgporn.com/logos/linux.svg"> </a>
+       <a href='https://www.youtube.com/watch?v=vDJD82fj0Us&list=PLRzodrm7Zy5Ep7crPccj8kAlj3XHj7Kub'> <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg"> </a>
       </td>
        <td width="25%" align="center">
         <span>JQuery</span><br><br><br>
